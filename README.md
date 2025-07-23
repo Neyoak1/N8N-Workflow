@@ -11,9 +11,11 @@
 ![Personal assistant 4](https://github.com/user-attachments/assets/5b54c54c-6ff3-4a18-9066-8f96fac8df5e)
 
 
-### Project Overview!
 
+### Project Overview!
 This project is an AI-powered personal assistant built using n8n and integrated with WhatsApp, Google Gemini, and various utility agents. It listens to incoming WhatsApp messages and intelligently responds using AI and connected tools acting like your smart virtual secretary.
+
+
 
 ### Table of Contents
 - [Personal WhatsApp AI Assistant](#personal-whatsapp-ai-assistant)
@@ -21,6 +23,8 @@ This project is an AI-powered personal assistant built using n8n and integrated 
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Use Case](#use-case)
+
+
   
 ### Key Features
 - WhatsApp Integration
