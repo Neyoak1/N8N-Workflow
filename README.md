@@ -18,3 +18,14 @@ Includes agents for:
   - 🧠 Context memory for personalized responses
 - Central AI Hub
   - The main "AI Agent" coordinates all tools and returns a processed response
+ 
+###  Tech Stack
+- n8n (Automation)
+- WhatsApp Business API (Trigger & Response)
+- Google Gemini (AI Model)
+- Google Sheets (Client & Calendar Data)
+- External APIs for research, memory, and emailing
+
+###  Use Case
+You can use this as a smart customer service agent, a personal chatbot, or even a productivity assistant that handles scheduling, emails, and research all from WhatsApp.
+
