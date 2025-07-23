@@ -1,8 +1,17 @@
 # N8N-Workflow
 
 ## Personal WhatsApp AI Assistant (n8n Workflow)
+![personal assistant](https://github.com/user-attachments/assets/0acf552a-5788-4e17-a1e8-28386e815469)
 
-### Project Overview
+![personal asistance 2](https://github.com/user-attachments/assets/e4fc9905-54ce-49a0-bfc9-d97fac37f31f)
+
+![Uploading personal assistant 3.jpg…]()
+
+
+
+
+### Project Overview!
+
 This project is an AI-powered personal assistant built using n8n and integrated with WhatsApp, Google Gemini, and various utility agents. It listens to incoming WhatsApp messages and intelligently responds using AI and connected tools acting like your smart virtual secretary.
 
 ### Key Features
